@@ -1,0 +1,5 @@
+(git config --global user.name "Prashanth Diddi" ) ==> Gives User Name 
+(git config --global user.email "prashanth7456@gmail.com") ==> Gives EMail ID  
+(git status) ==> GIves the current status of the files and additionally prompts the next command you may execute
+(git add) ==> adds the files to track them
+(git add.) ==> adds the whole current directory to track
